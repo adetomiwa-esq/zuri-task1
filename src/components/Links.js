@@ -1,11 +1,11 @@
 import React from 'react'
-import { AiFillGithub, AiOutlineSlack } from 'react-icons/ai';
+import { AiFillGithub } from 'react-icons/ai';
 import slack from '../images/download.png'
 
 function Links() {
   return (
     <div className='links'>
-        <a href='#'>
+        <a href='https://twitter.com/adetomiwa_akin/status/1548012467741024257?s=21'>
             <button id='twitter-link'>Twitter link</button>
         </a>
 
